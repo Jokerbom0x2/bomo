@@ -4563,7 +4563,7 @@ textarea:required {
 }
 
 .footer-content-area{
-    padding: 80px 0;
+    padding: 40px 0;
     margin-top: 100px;
     background: url(../img/svg/shape_1.svg) #d4722b;
     border-top: 3px solid;
@@ -4624,15 +4624,16 @@ textarea:required {
 
 .contact_info_area .contact_info {
     text-align: left !important;
+    
 }
 
 .contact_info_area .contact_info h5 {
-    font-size: 14px;
+    font-size: 24px;
 }
 
 .contact_info_area .contact_info p {
     margin-bottom: 0;
-    font-size: 14px;
+    font-size: 18px;
     color: #eee;
 }
 .contact_info_area .contact_info a:hover p{
